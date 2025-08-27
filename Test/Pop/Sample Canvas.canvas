@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"3acfc6504b21911a","x":-694,"y":-780,"width":414,"height":360,"color":"6","type":"group","label":"Card Group"},
+		{"id":"7c60993eeff45f57","type":"text","text":"Sample canvas obsidian","x":-340,"y":-300,"width":250,"height":60,"color":"6"},
+		{"id":"092acae369eeee3a","type":"text","text":"It was fantastic","x":-444,"y":-173,"width":250,"height":60},
+		{"id":"8a11e4d3b8fddd10","type":"file","file":"First note.md","x":40,"y":-780,"width":400,"height":400},
+		{"id":"35cf2ba875912395","type":"link","url":"https://obsidian.md/","x":100,"y":-80,"width":680,"height":560},
+		{"id":"3f475eb03a698285","type":"link","url":"https://www.youtube.com/watch?v=gafuqdKwD_U&ab_channel=CreaDevLabs","x":-743,"y":20,"width":549,"height":360},
+		{"id":"cd66feeb37a7c273","type":"text","text":"Card 1","x":-674,"y":-607,"width":144,"height":55},
+		{"id":"c5c76d2fae3fdc12","type":"text","text":" Card 2","x":-468,"y":-612,"width":141,"height":60},
+		{"id":"fb295f3ef76852b6","type":"text","text":"[[Base 1.base]]","x":-612,"y":-520,"width":215,"height":60},
+		{"id":"b7833bf1798b8ff6","type":"text","text":"Card 3","x":-592,"y":-720,"width":175,"height":60}
+	],
+	"edges":[
+		{"id":"dbb0748175458983","fromNode":"7c60993eeff45f57","fromSide":"bottom","toNode":"092acae369eeee3a","toSide":"top","color":"4"},
+		{"id":"76fd8a3a8d82cd80","fromNode":"fb295f3ef76852b6","fromSide":"right","toNode":"7c60993eeff45f57","toSide":"top"},
+		{"id":"dbff7a0d659847b0","fromNode":"092acae369eeee3a","fromSide":"bottom","toNode":"3f475eb03a698285","toSide":"top"},
+		{"id":"449f40a9be821570","fromNode":"7c60993eeff45f57","fromSide":"top","toNode":"8a11e4d3b8fddd10","toSide":"left"},
+		{"id":"2ac997b733a17075","fromNode":"7c60993eeff45f57","fromSide":"bottom","toNode":"35cf2ba875912395","toSide":"top"},
+		{"id":"1702cad349137d9e","fromNode":"3f475eb03a698285","fromSide":"right","toNode":"35cf2ba875912395","toSide":"left","fromEnd":"arrow"},
+		{"id":"7fb27de37410accb","fromNode":"b7833bf1798b8ff6","fromSide":"bottom","toNode":"cd66feeb37a7c273","toSide":"top"},
+		{"id":"c8aeeaa6e56106fa","fromNode":"b7833bf1798b8ff6","fromSide":"bottom","toNode":"c5c76d2fae3fdc12","toSide":"top"},
+		{"id":"1263fcc26f6f8fc0","fromNode":"b7833bf1798b8ff6","fromSide":"bottom","toNode":"fb295f3ef76852b6","toSide":"top"}
+	]
+}
