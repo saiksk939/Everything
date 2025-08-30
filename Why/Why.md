@@ -1,6 +1,6 @@
 **Why should we hire you or why should we select you**
 because I have the right skills for this job, and I’m also hardworking and dependable. I’m always ready to learn and do my best to help the team succeed.
-As a recent MBA finance graduate, I may not have direct professional experience in this specific field, but I'm confident that my academic background and transferable skills make me an excellent candidate. My MBA provided me with a strong foundation in financial analysis, risk assessment, and problem-solving—all of which are crucial for a Fraud & Claims Operations Associate. I'm also a strong communicator and quick learner. I'm excited by the opportunity to apply my knowledge and skills in a practical, real-world setting. I'm eager to learn your systems and processes, and I'm confident that I can quickly become a valuable member of your team."
+As a recent MBA finance graduate, I may not have direct professional experience in this specific field, but I'm confident that my academic background and transferable skills make me an excellent candidate. My MBA provided me with a strong foundation in financial analysis, and problem-solving—all of which are crucial for a Fraud & Claims Operations Associate. I'm also a strong communicator and quick learner. I'm excited by the opportunity to apply my knowledge and skills in a practical, real-world setting. I'm eager to learn your systems and processes, and I'm confident that I can quickly become a valuable member of your team."
 
 **Why do you want to work at our company or why u want to make career with wells fargo**
 I've been very impressed by [**Wells Fargo**]'s work in [**digital banking and financial technology services**]. Your reputation for [**innovation in the banking sector and delivering outstanding customer support**] really stands out. I'm eager to be part of a team that consistently delivers such high quality and impact solutions.
@@ -54,7 +54,7 @@ I would like to see myself as a successful employee in this organization after 5
 **What are your salary requirements or expectations**
 Being a fresher salary is not important for me, so I will go according to company standards.
 
-**Are you willing to relocate or travel**
+**Are you willing to relocate or travel (or) Are you ok if we give you banglore than Hyderabad**
 I’m willing to travel or relocate because it helps me learn how to adapt to different environments. It also improves my communication skills by interacting with different people, enhances my management skills, and builds my overall confidence and survival knowledge.
 
 **Explain how you will be asset to our organization**
@@ -78,7 +78,7 @@ In BSC I learned technical skills and I want to learn managing skills, So I join
 
 - If I’m not shortlisted today, I will accept it professionally. I’ll take your feedback to improve myself further. I work on my skills and come back stronger.
 
-**If you got job in other company with good package**
+**If you got job in other company with good package (or) Which one you choose if you get better opportunity at same time**
 I’m interested in your company and the work environment. I want to learn more and grow my career within this organization. I believe that with experience and hard work, I can earn a better package here in the future.
 
 **Tell about your family**
@@ -89,8 +89,17 @@ My mother is a homemaker. My brother works at news channel.
 **Inspiration** 
 My father is a very hardworking person. He has been working in the same company for the past 25 years. My father's work is hard and it affects his eyes and causes back pain. Still, he continued working for the family during tough times. Always cares about family. My father never scolds me because my grandfather died when my father was between 1 and 2 years old, so he never experienced his father’s affection. I'm proud of him.
 
-**what motivates you to apply for this position**
+**what motivates you to apply for this position** or **What are your expectations on this company**
 as a finance graduate. This job gives me best opportunity to start my career. because it gives me a chance to gain practical experience, and learn from professionals in the Investing field.
 
 **What u did in this lockdown**
 During the lockdown, I spent a lot of time with my family, picked up some hobbies like cooking, and tried to stay active at home. While cooking, I accidentally burned my face. Thankfully, I was wearing a mask and glasses, which protected my eyes from injury. I used to work out at home every day, which helped me stay active. I also spent time reading manga.
+
+**Will you use your customer detail for other purposes?**
+I will strictly use customer details only for the work assigned. I respect company policies and customer privacy, so I will not share or misuse that information.
+
+**What if your colleagues is doing unethical practice, what will you do** 
+If I find a colleague doing any unethical practice, first I will not support it in any way. If possible, I will try to **counsel them politely** and make them aware of the rules. If the issue continues, I will **report it to my manager** because the company’s reputation and values are more important.
+
+**What are the disadvantages facing by virtual work**
+Communication Gaps, Isolation, Distractions at Home, Technology Problems
