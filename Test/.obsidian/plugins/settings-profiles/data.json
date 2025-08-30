@@ -1,0 +1,19 @@
+{
+  "activeProfile": {
+    "name": "Settings Obsidian",
+    "modifiedAt": "2025-08-30T06:09:20.034Z"
+  },
+  "profileUpdate": true,
+  "profileUpdateDelay": 800,
+  "uiUpdate": true,
+  "uiUpdateInterval": 1000,
+  "devices": {
+    "de2894937bfa06070d0f105a826e0f5d23c726c74a5d25e1dae363cea417fc74": "D:\\Obsidian"
+  },
+  "statusbarInteraction": {
+    "click": "auto",
+    "ctrl_click": "none",
+    "shift_click": "none",
+    "alt_click": "none"
+  }
+}
