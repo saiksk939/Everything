@@ -94,7 +94,7 @@ My father is a very hardworking person. He has been working in the same company 
 as a finance graduate. This job gives me best opportunity to start my career. because it gives me a chance to gain practical experience, and learn from professionals in the Investing field.
 
 **What u did in this lockdown**
-During the lockdown, I spent a lot of time with my family, picked up some hobbies like cooking, and tried to stay active at home. While cooking, I accidentally burned my face. Thankfully, I was wearing a mask and glasses, which protected my eyes from injury. I used to work out at home every day, which helped me stay active. I also spent time reading manga.
+During the lockdown, I spent a lot of time with my family, picked up some hobbies like cooking, and played card games with my family. While cooking, I accidentally burned my face. Thankfully, I was wearing a mask and glasses, which protected my eyes from injury. I used to work out at home every day, which helped me stay active. I also spent time reading manga.
 
 **Will you use your customer detail for other purposes?**
 I will strictly use customer details only for the work assigned. I respect company policies and customer privacy, so I will not share or misuse that information.
