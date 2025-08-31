@@ -13,6 +13,7 @@ I would rate myself around 8 out of 10. I have a good understanding of the basic
 
 **What are your strengths, weakness and hobbies**
 My strengths are adaptability, hard work, and self-motivated.
+*When I was in college, my mother’s health was not good and she was admitted to the hospital. At that time, I had exams but didn’t have enough time to prepare. I had to visit my mother in the hospital, take care of the housework, and also manage my shop. Despite all this, I spent almost half the night studying for my exams.*
 My weakness is that sometimes I tend to overthink small details, which can lead to spending more time on them.
 My hobbies are browsing internet and watching anime.
 " It’s a Japanese anime series that has been airing since 1999 and is still ongoing.
