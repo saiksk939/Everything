@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "d145581c5f539a4a",
+    "id": "45596d4a4711bb61",
     "type": "split",
     "children": [
       {
-        "id": "ed56fa4e544f6e0e",
+        "id": "3c6ae4037519e431",
         "type": "tabs",
         "children": [
           {
-            "id": "0b09dc69ca874945",
+            "id": "813b3b9a7029cd3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "61213428ffb6bf27",
+    "id": "8a156903bb90e770",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "90849dbbe5346979",
+        "id": "0a50fb21931ba24d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "cd090ddd6543f0f8",
+        "id": "773f75ee7503e36f",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "cf5a00a407b619fc",
+        "id": "08fea84ff0e9f909",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "2ef52d582ac66254",
+        "id": "e334eaa9504aa433",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,11 +89,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "8dcfc8500dca0e3d",
+    "id": "b4b44545861dd79f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c2e31bed1ad8306a",
+        "id": "75d26dfb72703162",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -111,7 +111,7 @@
         }
       },
       {
-        "id": "0a66eeef6ffc6ea9",
+        "id": "09bf630aed5f6bd7",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -124,7 +124,7 @@
         }
       },
       {
-        "id": "a7ffa74003ef8386",
+        "id": "5dca38516d692ba5",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -152,9 +152,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "0b09dc69ca874945",
+  "active": "813b3b9a7029cd3b",
   "lastOpenFiles": [
-    "Everythingexit",
     "Why/Why.md",
     "Why/Wells.md",
     "Why/Summarys.md",
