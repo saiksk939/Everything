@@ -7,7 +7,7 @@ Positive thinking doesn't mean ignoring the problems it means facing them with c
 #Child_labour means making children work at a young age instead of going to school. These children often work in farms, factories, or homes, and the work is usually hard and unsafe.
 They do not get enough time to play or learn, which affects their health and future. Many working children do not go to school or drop out early.
 Child labour happens mostly because of poverty and lack of education.
-Every child deserves a safe childhood, good food, and a chance to go to school. Child labour can cause physical and mental problems due to hard and unsafe work.
+Every child deserves a safe childhood, good food, and education. Child labour can cause physical and mental problems due to hard and unsafe work.
 Child labour is banned in many countries, including India, but still continues in some areas. Poor families often sent their children to work to earn money.
 People must be taught that child labour is wrong and harmful.
 
@@ -55,7 +55,7 @@ Even though I had an exam that day, I chose to skip it and went with him.
 - It was released in 1988
 - It was war, drama genre 
 - The story takes place at world war time
-The plot of the movie is about two children, a brother and sister, struggling to survive after losing their parents in the war. They have no proper food or shelter, and life is extremely difficult for them. They cannot feed themselves adequately, and one of the children falls ill due to a lack of protein. In the end, the sick child dies, creating a heartbreaking scene. The movie is deeply emotional.
+The plot of the movie is about two children, a brother and sister, struggling to survive after losing their parents in the war. They have no proper food or shelter, and life is extremely difficult for them. They cannot feed themselves adequately, and one of the children falls ill due to a lack of protein. In the end, the sick child dies, creating a heartbreaking scene. The movie is deeply emotional. Coming to screenplay, direction everything about the movie is to notch.
 
 #Recently_visited
 Recently, I went to Karnataka with my family. It was a unique experience for me. We visited the ISKCON Temple, Dharmasthala, and Kukke Subramanya Swamy Temple. Our main reason for going to the Kukke Subramanya Swamy Temple was to perform a pooja. We woke up early in the morning and went to perform it. The pooja took about half a day to complete. After the pooja, we had certain dietary restrictions for upto 12 days — we could not eat certain food items or any food mixed with specific ingredients. We didn’t know about these rules before visiting the temple, so we found it difficult to get proper food.
