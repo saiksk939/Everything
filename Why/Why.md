@@ -100,7 +100,7 @@ During the lockdown, I spent a lot of time with my family, picked up some hobbie
 I will strictly use customer details only for the work assigned. I respect company policies and customer privacy, so I will not share or misuse that information.
 
 **What if your colleagues is doing unethical practice, what will you do** 
-If I find a colleague doing any unethical practice, first I will not support it in any way. If possible, I will try to **counsel them politely** and make them aware of the rules. If the issue continues, I will **report it to my manager** because the company’s reputation and values are more important.
+If I find a colleague doing any unethical practice, first I will not support it in any way. If possible, I will try to correct them and make them aware of the rules. If the issue continues, I will **report it to my manager** because the company’s reputation and values are more important.
 
 **What are the disadvantages facing by virtual work**
-Communication Gaps, Isolation, Distractions at Home, Technology Problems
+In virtual work we face a lot of problems like Communication Gaps, Isolation, Distractions at Home, Technology Problems
