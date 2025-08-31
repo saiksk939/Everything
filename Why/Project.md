@@ -41,7 +41,7 @@ It's important to note that this approach, often referred to as technical analys
 
 **Restricted Data Period:** The data was collected only for the financial year 2221-2222, and the analysis period was specifically limited to a short duration from 16/01/2221 to 05/03/2221 (45 days or two months), which may not be sufficient for comprehensive study.
 **Limited Geographical Scope:** The study was confined to only one state, Telangana.
-**Insufficient Parameters:** The analysis relied on only three technical parameters (Simple Moving Average, Relative Strength Index, and Rate of Change), which the project itself noted "may not be enough to predict the future price movements accurately".
+**Insufficient Parameters:** The analysis relied on only three technical parameters (Simple Moving Average, Relative Strength Index, and Rate of Change), which may not be enough to predict the future price movements accurately".
 **Reliance on Limited Data:** The prediction accuracy was constrained by using only one year of historical data.
 **Information Source Dependency:** The study was carried out based on information and documents provided by the organization and interactions with its employees
 

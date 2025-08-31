@@ -8,6 +8,9 @@ I've been very impressed by [**Wells Fargo**]'s work in [**digital banking and f
 **What are your carrier goals**
 My goal is to keep learning and improving my skills so I can take on more responsibilities and grow in my career over time.
 
+**What are your carrier goals**
+To get an opportunity where I can make the best of my potential and contribute to the organization's growth.
+
 **How can you rate in yourself in accounting and finance knowledge**
 I would rate myself around 8 out of 10. I have a good understanding of the basics and I’m still learning more every day. I have only theory knowledge. I don’t have practical knowledge. But I’m confident in my skills and always try to improve myself.
 
