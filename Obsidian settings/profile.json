@@ -1,12 +1,12 @@
 {
   "name": "Obsidian settings",
   "autoSync": true,
-  "appearance": true,
+  "appearance": false,
   "app": true,
   "bookmarks": true,
   "communityPlugins": true,
   "corePlugins": true,
   "graph": true,
   "hotkeys": true,
-  "modifiedAt": "2025-08-30T06:45:41.464Z"
+  "modifiedAt": "2025-09-01T05:22:52.867Z"
 }

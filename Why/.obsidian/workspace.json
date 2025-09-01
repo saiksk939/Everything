@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why.md",
+                "file": "Summarys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why"
+              "title": "Summarys"
             }
           }
         ],
@@ -163,22 +163,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "e31175267018d627",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "66af08c5cc81ce84",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -200,6 +184,7 @@
   "active": "8665d3bbdf4ba2a7",
   "lastOpenFiles": [
     "Wells.md",
+    "Untitled.md",
     "Why.md",
     "About job.md",
     "Summarys.md",
