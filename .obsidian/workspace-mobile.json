@@ -98,7 +98,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Why/Summarys.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,19 +136,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "f9f432cc45d93af9",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,13 +154,16 @@
   },
   "active": "0b09dc69ca874945",
   "lastOpenFiles": [
-    "Why/Project.md",
-    "Why/Summarys.md",
-    "Why/Why.md",
     "/Why/Why.md",
+    "/Why/Wells.md",
+    "/Why/Project.md",
+    "/Why/About job.md",
     "/Why",
+    "Why/Why.md",
     "Everythingexit",
     "Why/Wells.md",
+    "Why/Summarys.md",
+    "Why/Project.md",
     "Why/About job.md",
     "Test/To Test.md",
     "Test/Second note.md",
