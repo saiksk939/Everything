@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "45596d4a4711bb61",
+    "id": "d145581c5f539a4a",
     "type": "split",
     "children": [
       {
-        "id": "3c6ae4037519e431",
+        "id": "ed56fa4e544f6e0e",
         "type": "tabs",
         "children": [
           {
-            "id": "813b3b9a7029cd3b",
+            "id": "0b09dc69ca874945",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why/Why.md",
-                "mode": "source",
+                "file": "Why/Summarys.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why"
+              "title": "Summarys"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8a156903bb90e770",
+    "id": "61213428ffb6bf27",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "0a50fb21931ba24d",
+        "id": "90849dbbe5346979",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "773f75ee7503e36f",
+        "id": "cd090ddd6543f0f8",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "08fea84ff0e9f909",
+        "id": "cf5a00a407b619fc",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "e334eaa9504aa433",
+        "id": "2ef52d582ac66254",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,11 +89,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "b4b44545861dd79f",
+    "id": "8dcfc8500dca0e3d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "75d26dfb72703162",
+        "id": "c2e31bed1ad8306a",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -111,7 +111,7 @@
         }
       },
       {
-        "id": "09bf630aed5f6bd7",
+        "id": "0a66eeef6ffc6ea9",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -124,7 +124,7 @@
         }
       },
       {
-        "id": "5dca38516d692ba5",
+        "id": "a7ffa74003ef8386",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -152,9 +152,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "813b3b9a7029cd3b",
+  "active": "0b09dc69ca874945",
   "lastOpenFiles": [
     "Why/Why.md",
+    "/Why/Why.md",
+    "/Why",
+    "Everythingexit",
     "Why/Wells.md",
     "Why/Summarys.md",
     "Why/Project.md",
@@ -173,8 +176,6 @@
     "Obsidian settings/themes/Dracula Official/theme.css",
     "Obsidian settings/themes/Dracula Official/manifest.json",
     "Obsidian settings/templates.json",
-    "Obsidian settings/profile.json",
-    "Obsidian settings/plugins/table-editor-obsidian/styles.css",
-    "Obsidian settings/plugins/table-editor-obsidian/manifest.json"
+    "Obsidian settings/profile.json"
   ]
 }
