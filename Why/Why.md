@@ -8,12 +8,15 @@ I've been very impressed by [**Wells Fargo**]'s work in [**digital banking and f
 **What are your carrier goals**
 My goal is to keep learning and improving my skills so I can take on more responsibilities and grow in my career over time.
 
+**What are your carrier goals**
+To get an opportunity where I can make the best of my potential and contribute to the organization's growth.
+
 **How can you rate in yourself in accounting and finance knowledge**
 I would rate myself around 8 out of 10. I have a good understanding of the basics and I’m still learning more every day. I have only theory knowledge. I don’t have practical knowledge. But I’m confident in my skills and always try to improve myself.
 
 **What are your strengths, weakness and hobbies**
 My strengths are adaptability, hard work, and self-motivated.
-*When I was in college, my mother’s health was not good and she was admitted to the hospital. At that time, I had exams but didn’t have enough time to prepare. I had to visit my mother in the hospital, take care of the housework, and also manage my shop. Despite all this, I spent almost half the night studying for my exams.*
+*When I was in college, my mother’s health was not good and she was admitted to the hospital. At that time, I had exams but didn’t have enough time to prepare. I had to visit my mother in the hospital, take care of the housework, and also manage my shop. Despite all this, I spent almost half the night studying for my exams. At that time, it felt like hardwork to me, But going later I realized it wasn't hardwork it was a responsibility*
 My weakness is that sometimes I tend to overthink small details, which can lead to spending more time on them.
 My hobbies are browsing internet and watching anime.
 " It’s a Japanese anime series that has been airing since 1999 and is still ongoing.
@@ -94,13 +97,13 @@ My father is a very hardworking person. He has been working in the same company 
 as a finance graduate. This job gives me best opportunity to start my career. because it gives me a chance to gain practical experience, and learn from professionals in the Investing field.
 
 **What u did in this lockdown**
-During the lockdown, I spent a lot of time with my family, picked up some hobbies like cooking, and tried to stay active at home. While cooking, I accidentally burned my face. Thankfully, I was wearing a mask and glasses, which protected my eyes from injury. I used to work out at home every day, which helped me stay active. I also spent time reading manga.
+During the lockdown, I spent a lot of time with my family, picked up some hobbies like cooking, and played card games with my family. While cooking, I accidentally burned my face. Thankfully, I was wearing a mask and glasses, which protected my eyes from injury. I used to work out at home every day, which helped me stay active. I also spent time reading manga.
 
 **Will you use your customer detail for other purposes?**
 I will strictly use customer details only for the work assigned. I respect company policies and customer privacy, so I will not share or misuse that information.
 
 **What if your colleagues is doing unethical practice, what will you do** 
-If I find a colleague doing any unethical practice, first I will not support it in any way. If possible, I will try to **counsel them politely** and make them aware of the rules. If the issue continues, I will **report it to my manager** because the company’s reputation and values are more important.
+If I find a colleague doing any unethical practice, first I will not support it in any way. If possible, I will try to correct them and make them aware of the rules. If the issue continues, I will **report it to my manager** because the company’s reputation and values are more important.
 
 **What are the disadvantages facing by virtual work**
-Communication Gaps, Isolation, Distractions at Home, Technology Problems
+In virtual work we face a lot of problems like Communication Gaps, Isolation, Distractions at Home, Technology Problems

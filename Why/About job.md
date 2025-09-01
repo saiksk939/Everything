@@ -1,9 +1,10 @@
 This Job is a mix of customer service, financial investigation, and risk management. The main goal is to protect the company and its customers from financial loss due to fraud or errors.
 
 ### What the Job
-A **Fraud & Claims Operations Associate** is a frontline investigator who handles customer claims and suspicious account activity. They are the first line of defense against fraud.
+A **Associate Fraud & Claims Operations Representative** is a frontline investigator who handles customer claims and suspicious account activity. They are the first line of defense against fraud.
 
 ### What They Do
+**They are responsible for**
  - Investigate Claims and Disputes
  - Conduct Financial Research
  - Customer Interaction

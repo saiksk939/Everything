@@ -3,7 +3,7 @@ simple mortgage, mortgage by conditional sale, English mortgage, fixed-rate mort
 ##### home mortgage
 A **home mortgage** is a **loan** taken from a bank to **buy a house**. The house itself is kept as **security** (collateral) for the loan.
 ##### About company
-A company is a legal business organization formed by people to do business and earn profit. It has its own identity, separate from the people who run it
+A company is a business organization formed by people to do business activities and earn profit.
 ##### What are loans
 Loans are money borrowed from a bank or other lender, which must be paid back with interest over time.
 EX: Home loan, Personal load, car loan, education loan, gold loan
