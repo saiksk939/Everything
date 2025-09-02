@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why/Why.md",
+                "file": "Why/Summarys.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why"
+              "title": "Summarys"
             }
           }
         ]
@@ -154,13 +154,6 @@
   },
   "active": "0b09dc69ca874945",
   "lastOpenFiles": [
-    "Why/Wells.md",
-    "Why/Summarys.md",
-    "/Why/Summarys.md",
-    "/Obsidian settings/workspace.json",
-    "/Obsidian settings/profile.json",
-    "/Obsidian settings/community-plugins.json",
-    "/Obsidian settings",
     "/Why/Why.md",
     "/Why/Wells.md",
     "/Why/Project.md",
@@ -168,6 +161,8 @@
     "/Why",
     "Why/Why.md",
     "Everythingexit",
+    "Why/Wells.md",
+    "Why/Summarys.md",
     "Why/Project.md",
     "Why/About job.md",
     "Test/To Test.md",
@@ -180,6 +175,10 @@
     "Test/Base 1.base",
     "Obsidian settings/workspace.json",
     "Obsidian settings/themes/Typewriter/theme.css",
-    "Obsidian settings/themes/Typewriter/manifest.json"
+    "Obsidian settings/themes/Typewriter/manifest.json",
+    "Obsidian settings/themes/Dracula Official/theme.css",
+    "Obsidian settings/themes/Dracula Official/manifest.json",
+    "Obsidian settings/templates.json",
+    "Obsidian settings/profile.json"
   ]
 }
